@@ -1,4 +1,4 @@
-1project description:(c++)
+1project description (c++):
 
 Game "random number": 
 1) You need to choose want u new own range or classic [1;100] 
