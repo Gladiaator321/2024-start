@@ -1,5 +1,1 @@
-1project description (c++):
-
-Game "random number": 
-1) Gameplay: Enter your number, if it correct: You won!!! But you have only 10 attempts.
-
+2024 year: is year when I start to upload my works on GitHub
