@@ -1,3 +1,7 @@
+//1project description (c++)(with few changes):
+//Game "random number": 
+//Gameplay: Enter your number, if it correct: You won!!! But you have only 10 attempts.
+
 #include <iostream>
 #include <ctime>
 using namespace std;
